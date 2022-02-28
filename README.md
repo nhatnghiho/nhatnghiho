@@ -1,7 +1,7 @@
 # Hi there 👋 
 My name is Nghi (Hailey) Ho!
 - 🐝 💻 I am a full stack developer currently pursuing a B.S. in Computer Science at Georgia Tech
-- 🤖 I have a strong interest in AI and medicine and currently conducting research in Brain-Machine Interface
+- 🤖 I have a strong interest in AI and medicine and am conducting research in Brain-Machine Interface to help people with paralysis
 - 💪 In my free time, I enjoy working out, learning about investment and real estate, and testing out new restaurants!
 
 ### Connect with me:
