@@ -18,6 +18,7 @@ ____________________________________________________________________
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhatnghiho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ____________________________________________________________________
+
 ## 📖 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,7 +35,7 @@ ____________________________________________________________________
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" />
 </p>
-____________________________________________________________________
+
 ## 🌎 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatnghiho&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnghiho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
