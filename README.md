@@ -12,7 +12,8 @@ ____________________________________________________________________
 ## 🏗️ Recent Projects
 <img alt="Coding" src="https://github.com/nhatnghiho/nhatnghiho/blob/1548c16ceff87b1509527b6a37c85fbf84537fc4/background_pic1.jpeg" width="25%" heigth="auto" align="right"/>
 
-- 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension to recolor websites to make them more friendly to colorblind people **(Winner of General Track at HackIllinois 2022 🥇)**
+- 🏫 [Ziro](https://devpost.com/software/ziro) - a revolutionary tool that helps teachers and students improve the online learning experience by ensuring Zero Plagiarism backed by Decentralized Blockchain Technology **(Best ML/AI at HackTech 2022🥇)**
+- 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension to recolor websites to make them more friendly to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
 - 🏃 [Route About](https://nhatnghiho.github.io/route-about/) - web-based map that helps you randomize walking/jogging routes based on distance
 - 🚰 [AccessH2O](https://github.com/GTBitsOfGood/access-h2o) (contributor)
 
