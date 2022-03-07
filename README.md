@@ -7,6 +7,7 @@ My name is Nghi (Hailey) Ho!
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghi-hailey-ho-90940a157/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/nhatnghiho/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Hailey#0760)
 
 ____________________________________________________________________
 ## 🏗️ Recent Projects
@@ -39,5 +40,9 @@ ____________________________________________________________________
 </p>
 
 ## 🌎 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatnghiho&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnghiho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/nhatnghiho/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/nhatnghiho/github-stats/blob/master/generated/languages.svg)
+
+</a>
