@@ -16,7 +16,7 @@ ____________________________________________________________________
 - 🏫 [Ziro](https://devpost.com/software/ziro) - a revolutionary tool that helps teachers and students improve the online learning experience by ensuring Zero Plagiarism backed by Decentralized Blockchain Technology **(Best ML/AI at HackTech 2022🥇)**
 - 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension to recolor websites to make them more friendly to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
 - 🏃 [Route About](https://nhatnghiho.github.io/route-about/) - web-based map that helps you randomize walking/jogging routes based on distance
-- 🚰 [AccessH2O](https://github.com/GTBitsOfGood/access-h2o) (contributor)
+- 🚰 [AccessH2O](https://github.com/GTBitsOfGood/access-h2o) - a customer management platform for AccessH2O to assist families in need to pay water bills.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhatnghiho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ____________________________________________________________________
