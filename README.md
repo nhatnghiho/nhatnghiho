@@ -13,7 +13,7 @@ ____________________________________________________________________
 ## 🏗️ Recent Projects
 <img alt="Coding" src="https://github.com/nhatnghiho/nhatnghiho/blob/1548c16ceff87b1509527b6a37c85fbf84537fc4/background_pic1.jpeg" width="25%" heigth="auto" align="right"/>
 
-- 🐕 [Healing4Heros](https://github.com/GTBitsOfGood/Healing4Heroes) - a mobile training management app for [Healing4Heroes](https://www.healing4heroes.org/) to assist veterans and civillian partners with training rescue dogs to become ADA compliant service dogs (in progress)
+- 🐕 [Healing4Heros](https://github.com/GTBitsOfGood/Healing4Heroes) - a mobile training management app for [Healing4Heroes](https://www.healing4heroes.org/) to assist veterans and civillian partners with training rescue dogs to become ADA compliant service dogs **(in progress)**
 - 🌱 [TreeFinance](https://devpost.com/software/treefinance) - a web application that encourages users to donate to global tree-planting projects with change from their daily transactions **(Best Social Good at Girls Hoo Hack 2022🥇 and Best Use of Mastercard API at Hack WashU 2022🥇)**
 - 🏫 [Ziro](https://devpost.com/software/ziro) - a revolutionary tool that helps teachers and students improve the online learning experience by ensuring Zero Plagiarism backed by Decentralized Blockchain Technology **(Best ML/AI at HackTech 2022🥇)**
 - 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension that recolors websites to make them more accessible to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
