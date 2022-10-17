@@ -16,7 +16,7 @@ ____________________________________________________________________
 - 🐕 [Healing4Heros](https://github.com/GTBitsOfGood/Healing4Heroes) - a mobile training management app for [Healing4Heroes](https://www.healing4heroes.org/) to assist veterans and civillian partners with training rescue dogs to become ADA compliant service dogs (in progress)
 - 🌱 [TreeFinance](https://devpost.com/software/treefinance) - a web application that encourages users to donate to global tree-planting projects with change from their daily transactions **(Best Social Good at Girls Hoo Hack 2022🥇 and Best Use of Mastercard API at Hack WashU 2022🥇)**
 - 🏫 [Ziro](https://devpost.com/software/ziro) - a revolutionary tool that helps teachers and students improve the online learning experience by ensuring Zero Plagiarism backed by Decentralized Blockchain Technology **(Best ML/AI at HackTech 2022🥇)**
-- 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension that recolors websites to make them more friendly to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
+- 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension that recolors websites to make them more accessible to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
 - 🏃 [Route About](https://nhatnghiho.github.io/route-about/) - a web-based map that helps you randomize walking/jogging routes based on distance
 - 🚰 [AccessH2O](https://github.com/GTBitsOfGood/access-h2o) - a customer management platform for [AccessH2O](https://www.accessh2o.org/) to assist families in need with paying water bills.
 
