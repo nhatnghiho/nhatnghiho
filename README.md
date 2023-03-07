@@ -1,7 +1,7 @@
 # Hi there 👋 
 My name is Nghi (Hailey) Ho!
 - 🐝 💻 I am a back-end developer currently pursuing a B.S. in Computer Science at Georgia Tech
-- 🤖 I have a strong interest in ML and am conducting research in Brain-Machine Interface to help people with paralysis
+- 🤖 I have a strong interest in HPC and ML and am conducting research in Brain-Machine Interface to help people with paralysis
 - 💪 In my free time, I enjoy working out, learning about investment and real estate, and exploring different cuisines!
 
 ### Connect with me:
@@ -12,8 +12,8 @@ My name is Nghi (Hailey) Ho!
 ____________________________________________________________________
 ## 🏗️ Recent Projects
 <img alt="Coding" src="https://github.com/nhatnghiho/nhatnghiho/blob/1548c16ceff87b1509527b6a37c85fbf84537fc4/background_pic1.jpeg" width="25%" heigth="auto" align="right"/>
-
-- 🐕 [Healing4Heros](https://github.com/GTBitsOfGood/Healing4Heroes) - a mobile training management app for [Healing4Heroes](https://www.healing4heroes.org/) to assist veterans and civillian partners with training rescue dogs to become ADA compliant service dogs **(in progress)**
+- 🐝 [GT Scheduler](https://github.com/gt-scheduler) - a course scheduling tool for Georgia Tech students with 44K users per semester
+- 🐕 [Healing4Heros](https://github.com/GTBitsOfGood/Healing4Heroes) - a mobile training management app for [Healing4Heroes](https://www.healing4heroes.org/) to assist veterans and civillian partners with training rescue dogs to become ADA compliant service dogs
 - 🌱 [TreeFinance](https://devpost.com/software/treefinance) - a web application that encourages users to donate to global tree-planting projects with change from their daily transactions **(Best Social Good at Girls Hoo Hack 2022🥇 and Best Use of Mastercard API at Hack WashU 2022🥇)**
 - 🏫 [Ziro](https://devpost.com/software/ziro) - a revolutionary tool that helps teachers and students improve the online learning experience by ensuring Zero Plagiarism backed by Decentralized Blockchain Technology **(Best ML/AI at HackTech 2022🥇)**
 - 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension that recolors websites to make them more accessible to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
