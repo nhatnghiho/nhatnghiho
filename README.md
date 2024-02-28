@@ -1,7 +1,7 @@
 # Hi there 👋 
 My name is Nghi (Hailey) Ho!
 - 🐝 💻 I am a back-end developer currently pursuing a B.S. in Computer Science at Georgia Tech
-- 🤖 I have a strong interest in HPC and ML and am conducting research in Brain-Machine Interface to help people with paralysis
+- 🤖 I have a strong interest in high-performance computing and am conducting research in [Brain-Machine Interface at Emory University](https://snel.ai/) to help people with paralysis
 - 💪 In my free time, I enjoy working out, learning about investment and real estate, and exploring different cuisines!
 
 ### Connect with me:
@@ -20,13 +20,12 @@ ____________________________________________________________________
 - 👓 [ChromaVision](https://github.com/WebAInternationals/ChromaVision) - a Chrome Extension that recolors websites to make them more accessible to colorblind people **(Winner of General Track at HackIllinois 2022🥇)**
 - 🏃 [Route About](https://nhatnghiho.github.io/route-about/) - a web-based map that helps you randomize walking/jogging routes based on distance
 - 🚰 [AccessH2O](https://github.com/GTBitsOfGood/access-h2o) - a customer management platform for [AccessH2O](https://www.accessh2o.org/) to assist families in need with paying water bills.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhatnghiho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ____________________________________________________________________
 
 ## 📖 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
